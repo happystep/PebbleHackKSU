@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "superluis5@gmail.com",
+    "enableMultiJS": true,
+    "longName": "test",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "test",
+    "uuid": "097e349a-5676-4bb0-81f3-4d713d75da42",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
